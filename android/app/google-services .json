@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137185969701",
+    "project_id": "pink-fish-profiler-v2",
+    "storage_bucket": "pink-fish-profiler-v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137185969701:android:19b5897c4fa38e9d8f61cc",
+        "android_client_info": {
+          "package_name": "com.example.pink_data_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137185969701-jtqha60es3jsgasdkqdvss2glgiedfmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pink_data_mobile",
+            "certificate_hash": "bf6719c0aa42eddcdfbafcf93a17a5070e399df8"
+          }
+        },
+        {
+          "client_id": "137185969701-0molfetajt2c52cdth5uu48oiufnapd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyBV0KeZ4A1kK6L2ERjwFKQh8N3eapYI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137185969701-0molfetajt2c52cdth5uu48oiufnapd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
