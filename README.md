@@ -132,6 +132,3 @@ flutter build ios --release        # iOS (requires macOS)
 
 Issues and pull requests are welcome. Run `flutter analyze` and `flutter test` before opening a PR.
 
-## License
-
-Add a license of your choice (for example MIT) before publishing.
